@@ -1,2 +1,2 @@
-# Project-Football-Matches
+# project-football-matches
 Machine Learning
